@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Título del documento</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Información sobre la publicación de este documento (no de su fuente).</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Información sobre la fuente de este documento.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Algo de texto <q >aquí</q>.</p>
+    </body>
+  </text>
+</TEI>
