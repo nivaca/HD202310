@@ -1,4 +1,4 @@
-# Módulo de texto digital, Herramientas digitales 2023-10
+# Módulo de texto digital, *Herramientas digitales*, semestre 2023-10
 ## Mayo de 2023
 
 ## Archivos y documentación para el taller
