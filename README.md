@@ -1,11 +1,11 @@
-# Taller de TEI para la Universidad de los Andes
-## Abril 13 y 14 de 2023
+# Módulo de texto digital, Herramientas digitales 2023-10
+## Mayo de 2023
 
 ## Archivos y documentación para el taller
 
-- [Presentación](Taller01.pdf)
-- [Plantilla básica de TEI](https://raw.githubusercontent.com/nivaca/taller-tei-2023/main/assets/plantilla.xml)
-- [MSS. Marta Traba](https://raw.githubusercontent.com/nivaca/taller-tei-2023/main/assets/Marta%20Traba%20MSS.pdf)
+- [Presentación](TEI01.pdf)
+- [Plantilla básica de TEI](https://raw.githubusercontent.com/nivaca/HD202310/main/assets/plantilla.xml)
+- [MSS. Marta Traba](https://raw.githubusercontent.com/nivaca/HD202310/main/assets/Marta%20Traba%20MSS.pdf)
 
 ## Información adicional
 - [Documentación oficial para TEI P5](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html)
