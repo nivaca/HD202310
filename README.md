@@ -1,4 +1,6 @@
-# Módulo de texto digital, *Herramientas digitales*, semestre 2023-10
+# Módulo de texto digital
+# *Herramientas digitales*, semestre 2023-10
+## Universidad de los Andes, Bogotá, Colombia
 ## Mayo de 2023
 
 ## Archivos y documentación para el taller
