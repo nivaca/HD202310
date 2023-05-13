@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Hipótesis sobre una escritura diferente</title>
+        <author>Marta Traba</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+          Transcripción realizada por 
+          <persName>Nicolás Vaughan</persName> 
+          para la clase de <rs>Herramientas digitales</rs>, 
+          <name>Universidad de los Andes</name>, 
+          <placeName>Bogotá</placeName>, 
+          <placeName>Colombia</placeName>,
+          <date when="2023-05">mayo de 2023</date>.
+        </p>
+        </publicationStmt>
+        <sourceDesc>
+          <p>
+              <bibl>
+                <title>
+                  Marta Traba en facsímil
+                </title>
+                <editor>
+                  Fernando Zalamea
+                </editor>
+                <date>2014</date>
+                <placeName>
+                  Bogotá
+                </placeName>
+              </bibl>
+            </p>
+          </sourceDesc>
+        </fileDesc>
+      </teiHeader>
+      <text>
+        
+        <body>
+          
+          <pb n="1"/>
+          
+          <p>
+            El texto literario ha pasado en este siglo por las mismas tentaciones y competencias de las artes plás<del><gap reason="ilegible"/></del>ticas.
+            Buscar una expresión o una representación que, siguiendo el modelo de la ciencia moderna, no fuera comprendido
+            <subst><del>inmediatamente</del><add>de inmediato</add></subst>,
+            sino que se necesitara un proceso de mediación <del>para llegar a ellos</del>, 
+            fu<choice><orig>é</orig><reg>e</reg></choice>
+            la ambición de ambos a principios del siglo.
+            La teoría literario, como la teoría del arte, viven en ese espacio entre la obra y el espectador, que se ha agrandado visiblemente, se ha atiborrado de señales y, en algunos caso, se ha convertido en el arte mismo 
+            <subst>
+              <del>(y me imagino, aunque no lo conozo muy bien) que</del>
+              <add>y</add>
+            </subst> 
+            en el sustituto de la literatura. 
+            La acusación de que los teóricos del arte 
+            <subst>
+              <del>sustituyeron</del> 
+              <add>
+                <unclear>reemplazan</unclear>
+              </add>
+            </subst> 
+            al 
+            <add>
+              <unclear>mismo</unclear>
+            </add> 
+            artista ha resonado varias veces en los último años, sobre todo en los 
+            <placeName>Estados Unidos</placeName>,
+             y 
+            <del>
+              <add>
+                <gap reason="ilegible"/>
+              </add>
+            </del>
+            no carece completamente de verdad.
+          </p>
+          
+          <!-- ... -->
+          
+          <pb n="2"/>
+          
+          <!-- ... -->
+
+          <pb n="3"/>
+
+          <!-- ... -->
+          
+        </body>
+        
+      </text>
+    </TEI>
