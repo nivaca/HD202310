@@ -83,7 +83,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             El texto literario ha sido revisado por los diversos te<choice><sic>o</sic><corr>ó</corr></choice>ricos y tendencias dentro de varias posibilidades;
             1<add>)</add> 
             <!--ojo: la corrección de la autora parece una barra pero es un paréntesis-->
-            tomar como modelo el enunciado científico, afirmando, con F<choice><orig>aul</orig><corr>lau</corr></choice>bert,, que no debe ser entendido ni <subst><del>excesivamente</del><add>completamente</add></subst> ni demasiado rápido. 
+            tomar como modelo el enunciado científico, afirmando, con F<choice><orig>aul</orig><corr>lau</corr></choice>bert, que no debe ser entendido ni <subst><del>excesivamente</del><add>completamente</add></subst> ni demasiado rápido. 
             2<add>)</add> Mostrar su autonomía respecto al enunciado científico. 
             3) Establecer claramente su diferencia con lo que <persName>Della V<subst><del><unclear>l</unclear></del><add>o</add></subst>lpe</persName> llama <q>lo literal material</q>.
           </p>
