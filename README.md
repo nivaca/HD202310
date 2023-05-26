@@ -12,6 +12,7 @@
 ## Sesión sobre XSLT
 - [Plantilla XSLT](https://raw.githubusercontent.com/nivaca/HD202310/main/assets/plantilla.xsl)
 - [Transcripción TEI del texto de Marta Traba](https://raw.githubusercontent.com/nivaca/HD202310/main/assets/MartaTrabaOK.xml)
+- [Referencia completa sobre XSLT 3.0](https://www.w3.org/TR/2017/REC-xslt-30-20170608/)
 
 ## Información adicional
 - [Documentación oficial para TEI P5](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html)
