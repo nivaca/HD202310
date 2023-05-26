@@ -17,6 +17,7 @@
     <xsl:apply-templates/>
   </xsl:template>
   
+  <!--
   <xsl:template match="teiHeader">
   </xsl:template>
   
@@ -27,6 +28,6 @@
   <xsl:template match="body">
     <xsl:apply-templates/>
   </xsl:template>
-  
+  -->
   
 </xsl:stylesheet>
