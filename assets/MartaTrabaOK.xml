@@ -115,7 +115,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <q>
               toda enunciaci<choice><sic>o</sic><corr>ó</corr></choice>n entraña una especie de afirmaci<choice><sic>o</sic><corr>ó</corr></choice>n later<del>i</del>al sobre el <del>l</del>lenguage, es decir, sobre s<subst><del>i</del><add>í</add></subst> misma, 
               <!-- ojo: aquí va el salto de página -->
-              <pb next="3"/>
+              <pb n="3"/>
               e incluye una especie de autodesignaci<choice><sic>o</sic><corr>ó</corr></choice>n dentro de su propia estructura<subst><del>;</del><add>:</add></subst> se significa a sí misma como un acto del habla y como la reinvención del habla en general.</q> (pag.201. <persName>Jameson</persName>, Ed. Ariel <date>1980</date>, <placeName>Barcelona</placeName>.)
           </p>
           
