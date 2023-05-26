@@ -9,6 +9,10 @@
 - [Plantilla básica de TEI](https://raw.githubusercontent.com/nivaca/HD202310/main/assets/plantilla.xml)
 - [MSS. Marta Traba](https://raw.githubusercontent.com/nivaca/HD202310/main/assets/Marta%20Traba%20MSS.pdf)
 
+## Sesión sobre XSLT
+- [Plantilla XSLT](https://raw.githubusercontent.com/nivaca/HD202310/main/assets/plantilla.xsl)
+- [Transcripción TEI del texto de Marta Traba](https://raw.githubusercontent.com/nivaca/HD202310/main/assets/MartaTrabaOK.xml)
+
 ## Información adicional
 - [Documentación oficial para TEI P5](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html)
 - [Apéndice C de la documentación, con todos los elementos de TEI](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ELEMENTS.html)
