@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Hipótesis sobre una escritura diferente</title>
+        <author>Marta Traba</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+          Transcripción realizada por 
+          <persName>Nicolás Vaughan</persName> 
+          para la clase de <rs>Herramientas digitales</rs>, 
+          <name>Universidad de los Andes</name>, 
+          <placeName>Bogotá</placeName>, 
+          <placeName>Colombia</placeName>,
+          <date when="2023-05">mayo de 2023</date>.
+        </p>
+        </publicationStmt>
+        <sourceDesc>
+          <p>
+              <bibl>
+                <title>
+                  Marta Traba en facsímil
+                </title>
+                <editor>
+                  Fernando Zalamea
+                </editor>
+                <date>2014</date>
+                <placeName>
+                  Bogotá
+                </placeName>
+              </bibl>
+            </p>
+          </sourceDesc>
+        </fileDesc>
+      </teiHeader>
+      <text>
+        
+        <body>
+          
+          <pb n="1"/>
+          
+          <p>
+            El texto literario ha pasado en este siglo por las mismas tentaciones y competencias de las artes plás<del><gap reason="ilegible"/></del>ticas.
+            Buscar una expresión o una representación que, siguiendo el modelo de la ciencia moderna, no fuera comprendido
+            <subst><del>inmediatamente</del><add>de inmediato</add></subst>,
+            sino que se necesitara un proceso de mediación <del>para llegar a ellos</del>, 
+            fu<choice><orig>é</orig><reg>e</reg></choice>
+            la ambición de ambos a principios del siglo.
+            La teoría literario, como la teoría del arte, viven en ese espacio entre la obra y el espectador, que se ha agrandado visiblemente, se ha atiborrado de señales y, en algunos caso, se ha convertido en el arte mismo 
+            <subst>
+              <del>(y me imagino, aunque no lo conozco muy bien) que</del>
+              <add>y</add>
+            </subst> 
+            en el sustituto de la literatura. 
+            La acusación de que los teóricos del arte 
+            <subst>
+              <del>sustituyeron</del> 
+              <add>
+                <unclear>reemplazan</unclear>
+              </add>
+            </subst> 
+            al 
+            <add>
+              <unclear>mismo</unclear>
+            </add> 
+            artista ha resonado varias veces en los último años, sobre todo en los 
+            <placeName>Estados Unidos</placeName>,
+             y 
+            <del>
+              <add>
+                <gap reason="ilegible"/>
+              </add>
+            </del>
+            no carece completamente de verdad.
+          </p>
+          
+          <p>
+            El texto literario ha sido revisado por los diversos te<choice><sic>o</sic><corr>ó</corr></choice>ricos y tendencias dentro de varias posibilidades;
+            1<add>)</add> 
+            <!--ojo: la corrección de la autora parece una barra pero es un paréntesis-->
+            tomar como modelo el enunciado científico, afirmando, con F<choice><orig>aul</orig><corr>lau</corr></choice>bert,, que no debe ser entendido ni <subst><del>excesivamente</del><add>completamente</add></subst> ni demasiado rápido. 
+            2<add>)</add> Mostrar su autonomía respecto al enunciado científico. 
+            3) Establecer claramente su diferencia con lo que <persName>Della V<subst><del><unclear>l</unclear></del><add>o</add></subst>lpe</persName> llama <q>lo literal material</q>.
+          </p>
+          
+          <p>
+            Para guiarme por algún ejemplo concreto de teoría literaria, escojo la concepción del discurso narrativo seg<choice><orig>u</orig><corr>ú</corr></choice>n <persName>Michel <subst><del>Se</del><add>Zè</add></subst>raffa</persName>, quien establece tres fases <del>de discurso narrativo</del>, a) la realidad descompuesta, b) el pensamiento descompuesto, y c) la estética de la de-construcción, lo cual da una idea de la complejidad del proceso hasta llegar al texto, as<choice><sic>i</sic><corr>í</corr></choice> como del alto nivel de síntesis y abstracciones, la invención de la metáfora y la dis<subst><del><gap/></del><add>ancia</add></subst><choice><sic>a</sic><corr/></choice> prog<sic> </sic>resiva <subst><del>del</del><add>entre el</add></subst> significante y significado<add>,</add> hasta logra<add>r</add> un verdad<add>ero</add> enriquecimiento del texto.
+          </p>
+          
+          <pb n="2"/>
+          
+          <p ana="título">
+            <corr>¿</corr>Enriquecimiento o complejidad?
+          </p>
+          
+          <p>
+            El texto literario no puede salir sino de una elaborada técnica literaria, si nos atenemos a las teorías literarias.
+            Si, como afirma <persName>Michel Z<subst><del>e</del><add>è</add></subst>raffa</persName>, tal técnica consiste en la evidente diferencia entre una destrucci<subst><del>o</del><add>ó</add></subst>n vivida y una deconstrucci<subst><del>o</del><add>ó</add></subst>n pensada, hay que situar el trabajo del escritor entre los fragmentos de un mundo que se da, a su alrededor<add>,</add> sin ninguna unidad ni coherencia y reconocer su capacidad abstracta para pensar un sistema o so<subst><del>c</del><add>l</add></subst>ución artificial capaz de organizar el caos (o exp<subst><del><gap/></del><add>r</add></subst>esarlo como tal, perdo distinto y sistematizado);
+            sometiéndolo en todo caso a una operaci<subst><del>o</del><add>ó</add></subst>n transformadora que indica un claro enfriamiento respecto a los materiales de que dispone.
+            El escritor no estaría, entonces, <emph rend="subrayado">dentro</emph> de su material, sino afuera, abajo o arriba; no ser<subst><del>i</del><add>í</add></subst>a <emph rend="subrayado">dominado</emph> por su materia, sino que podría manipularlo seg<choice><sic>u</sic><reg>ú</reg></choice>n sus propios sistemas.
+          </p>
+          
+          <p>
+            No hay otro modo de organizar esa <emph rend="subrayado">deconstrucci<subst><del>o</del><add>ó</add></subst>n pensado </emph> sino a trav<subst><del>e</del><add>é</add></subst>s de una compleja tarea ling<choice><sic>u</sic><corr>ü</corr></choice><subst><del>i</del><add>í</add></subst>stica que, en primer lugar, descarta el lenguaje común, aunque pase a parodiarlo cada vez más, y, enseguida, se aboca a la creación de unidades semánticas autó<sic> </sic>n<sic> </sic>omas que armen el cañamazo de un lenguaje simbólico. 
+            El espacio de un lenguaje simb<subst><del>o</del><add>ó</add></subst>lico estará tanto más separado de la ideolog<subst><del>i</del><add>í</add></subst>a cotidiana en cuanto su comple<subst><del>i</del><add>j</add></subst>idad aumenta, lo que ha ocurrido visiblemente en este<corr> </corr>siglo, al comp<add>l</add>icarse la técnica por sus ambiciones de ruptura de los modelos precedentes o por su ansiedad por establecer d<choice><sic>o</sic><corr>ó</corr></choice>nde y en qué radica su autonomía. 
+          </p>
+          
+          <p>
+            En su libro <title>La C<subst><del>a</del><add>á</add></subst>rcel del lenguaje</title>, <persName>Fredric Jameson</persName> llama drásticamente la atención sobre las consecuencias de la teoría literaria, poniendo especial énfasis en los resultados del formalismo, cuando afirm<subst><del>ó</del><add>a</add></subst> que el contenido de una obra no es otra cosa distinta al nacimiento de dicha obra, de manera que 
+            <q>
+              toda enunciaci<choice><sic>o</sic><corr>ó</corr></choice>n entraña una especie de afirmaci<choice><sic>o</sic><corr>ó</corr></choice>n later<del>i</del>al sobre el <del>l</del>lenguage, es decir, sobre s<subst><del>i</del><add>í</add></subst> misma, 
+              <!-- ojo: aquí va el salto de página -->
+              <pb next="3"/>
+              e incluye una especie de autodesignaci<choice><sic>o</sic><corr>ó</corr></choice>n dentro de su propia estructura<subst><del>;</del><add>:</add></subst> se significa a sí misma como un acto del habla y como la reinvención del habla en general.</q> (pag.201. <persName>Jameson</persName>, Ed. Ariel <date>1980</date>, <placeName>Barcelona</placeName>.)
+          </p>
+          
+          <p>
+            Esta invenci<subst><del>o</del><add>ó</add></subst>n del texto literario<corr>,</corr> que termina por ser autor<sic>r</sic>eferencial, se convierte en un sistema de trabajo gracias a los seis factores que <persName>Roman Jakobson</persName> encuentra en el lenguaje <add>(</add><sic>'</sic> extraigo la cita del libro de <persName>Jameson</persName><sic>,</sic>)<corr>,</corr> y que desearía repertir<del>les</del> porque considero que dan un modelo de lenguaje, de tipo estructuralista, que sirve mejor que cualquier otra explicación para pensar en un discurso autor<sic>r</sic>eferente. 
+          </p>
+          
+          
+          <p>
+            <!--ojo: faltan las comillas de cierre en esta cita-->
+            "El <emph rend="subrayado">emisor</emph> env<choice><sic>i</sic><corr>í</corr></choice>a un <emph rend="subrayado">mensaje</emph> al <emph rend="subrayado">destinatario</emph>. 
+            Para ser efica<subst><del>r</del><add>z</add></subst>, el mensaje requiere un <subst><del><unclear>comtecto</unclear></del><add>contexto</add></subst> de referencia (referente, en otra nomenclatura, algo ambigua<add>)</add><choice><sic>;</sic><corr>,</corr></choice>
+            captable por el destinatario y verbal o capaz de verbalizarse; un <emph rend="subrayado, mayúsculas">c<choice><sic>o</sic><corr>ó</corr></choice>digo</emph> total o por lo m<subst><del>a</del><add>e</add></subst>nos<del>,</del> parcialmente com<subst><del>u</del><add>ú</add></subst>n al emisor y al destinatario 
+            (o en otras palabras, al codificador y al descodificador del mensaje)
+            y, por último, un <emph rend="subrayado">contacto</emph>, un canal físico y una conexi<subst><del>o</del><add>ó</add></subst>n psicológica entre el emisor y <del>d</del>el destinatario, que permita a ambos entrar en comunicación y mantenerse en ella. 
+            Cada uno de esos seis factores determina una función diferente del lenguaje.
+          </p>
+          
+          <p>
+            La dispersi<choice><sic>o</sic><corr>ó</corr></choice>n ontol<subst><del>o</del><add>ó</add></subst>gica, que denuncia <persName>Jameson</persName>, el alejamiento de la situaci<choice><sic>o</sic><corr>ó</corr></choice>n social histórica concreta, han conducido <subst><del>e</del><add>a</add></subst>l texto a un estatismo <del><gap/></del> autosuficiente. 
+            Y aunque muchas veces la t<subst><del>oe</del><add>eo</add></subst>ría <add><unclear>no</unclear></add> haya supuesto <add>a</add> esta estructura estática paralizando un texto que podía ser dinámico<del>,</del> y atender a la historia, lo cierto es que el texto literario se definió, en este siglo, como un espacio autoreferente, autosuficiente, el <subst><del>l</del><add>L</add></subst>enguaje en sí, con may<choice><sic>u</sic><corr>ú</corr></choice>scula, <sic>embretado</sic> <!--ojo: no encontré esta palabra--> en los niveles isomorfos de <persName>Lucien Goldmann</persName>
+          </p>
+          
+          <p>
+            <corr>¿</corr>Corresponde est<subst><del>e</del><add>a</add></subst> investigaci<subst><del>o</del><add>ó</add></subst>n<add>,</add> que terminó en una invención de lenguaje practicada por hombre<add>s</add> sobre textos de hombres, también a los textos femeninos<sic>.</sic>?
+          </p>
+          
+          
+        </body>
+        
+      </text>
+    </TEI>
